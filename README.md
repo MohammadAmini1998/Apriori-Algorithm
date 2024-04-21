@@ -21,3 +21,9 @@ The Apriori algorithm is a classic algorithm used for frequent item set mining a
    - The process is repeated until no more new frequent itemsets are identified.
 ## Dataset
 The market transaction dataset used for this project contains approximately 7500 transactions. It has about 7500 transactions. The dataset is provided in the repo as well but any dataset will do the job. 
+
+## Contributions and Feedback
+
+I welcome contributions, feedback, and suggestions for improvement! If you have any ideas, questions, or insights regarding this project, feel free to reach out and engage in discussions.
+
+Let's continue exploring the exciting possibilities of Data Mining together! 🚀
