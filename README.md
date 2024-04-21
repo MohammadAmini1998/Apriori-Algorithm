@@ -1,6 +1,6 @@
 # Frequent Pattern Mining with Apriori Algorithm
 
-In this project, we apply frequent pattern mining on a market transaction dataset using the Apriori algorithm.
+In this project, we apply frequent pattern mining on a market transaction dataset using the Apriori algorithm from scratch.
 
 ## Apriori Algorithm
 
