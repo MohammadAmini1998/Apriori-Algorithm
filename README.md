@@ -29,7 +29,7 @@ Consider the following transactions:
 - milk, diaper, beer, coke
 - bread, milk, diaper, beer
 - bread, milk, diaper, coke
-- 
+  
 With a minimum support of 2, we find:
 
 1. Frequent itemsets of size 1: {bread}, {milk}, {diaper}, {beer}, {coke}
