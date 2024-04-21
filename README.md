@@ -23,11 +23,13 @@ The Apriori algorithm is a classic algorithm used for frequent item set mining a
    - The process is repeated until no more new frequent itemsets are identified.
 
 ### Example:
-bread, milk
-bread, diaper, beer, eggs
-milk, diaper, beer, coke
-bread, milk, diaper, beer
-bread, milk, diaper, coke
+Consider the following transactions:
+- bread, milk
+- bread, diaper, beer, eggs
+- milk, diaper, beer, coke
+- bread, milk, diaper, beer
+- bread, milk, diaper, coke
+- 
 With a minimum support of 2, we find:
 
 1. Frequent itemsets of size 1: {bread}, {milk}, {diaper}, {beer}, {coke}
@@ -35,7 +37,7 @@ With a minimum support of 2, we find:
 3. Frequent itemsets of size 3: {bread, milk, diaper}, {bread, diaper, beer}, {milk, diaper, beer}
 4. Frequent itemsets of size 4: {bread, milk, diaper, beer}
 
-Consider the following transactions:
+
 ## Dataset
 The market transaction dataset used for this project contains approximately 7500 transactions. It has about 7500 transactions. The dataset is provided in the repo as well but any dataset will do the job. 
 ## Results
